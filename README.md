@@ -46,7 +46,7 @@ To ensure regulatory compliance and operational security, the following Annex A 
 ## 📂 Repository Structure
 ```text
 ├── docs/
-│   └── methodology.md             # Detailed breakdown of Likelihood/Impact scales
+│   └── methodology.md             # Detailed breakdown of Probability/Impact scales
 ├── deliverables/
 │   └── Risk_Register_v1.0.xlsx    # The core Risk Assessment matrix (Excel)
 └── README.md                      # Project overview and executive summary
