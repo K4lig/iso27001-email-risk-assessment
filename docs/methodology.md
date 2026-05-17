@@ -12,7 +12,7 @@ The boundaries of this risk assessment cover the following critical areas:
 ## 2. Risk Calculation Criteria
 Risks are quantified using a standard qualitative risk analysis formula. This ensures a consistent and objective evaluation across all identified threats.
 
-> **Formula:** `Risk Score = Likelihood × Impact`
+> **Formula:** `Risk Score = Probability × Impact`
 
 ---
 
