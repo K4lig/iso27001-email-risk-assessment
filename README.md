@@ -6,10 +6,10 @@
 
 > A comprehensive Risk Assessment focusing on social engineering threats, vulnerability identification, and mitigation strategies for the protection of personal and corporate data within enterprise email systems.
 
-## 📋 1. Project Overview
+## 1. Project Overview
 This project demonstrates the ability to bridge the gap between human-centric vulnerabilities and technical defense mechanisms within corporate communications. It quantifies associated risks and applies international governance standards (**ISO/IEC 27001:2022**) to design auditable, actionable mitigation strategies.
 
-## 🏢 2. Business Scenario
+## 2. Business Scenario
 The assessment simulates a large academic institution managing sensitive **Personal Identifiable Information (PII)**, critical academic records, and intellectual property. 
 
 **The Threat Landscape:** The institution faces highly targeted social engineering campaigns (such as Spear-Phishing and Business Email Compromise) aiming to:
@@ -17,12 +17,12 @@ The assessment simulates a large academic institution managing sensitive **Perso
 * Bypass perimeter network defenses.
 * Inadvertently or maliciously exfiltrate critical data.
 
-## 📊 3. Methodology Summary
+## 3. Methodology Summary
 Risks are calculated using a standard **5x5 Risk Matrix (Likelihood × Impact)**. The evaluation provides a clear comparative analysis between:
 * **Inherent Risk:** The baseline threat level prior to control implementation.
 * **Residual Risk:** The estimated, acceptable risk level after applying targeted Annex A controls.
 
-## 🔑 4. Key ISO 27001:2022 Controls Mapped
+## 4. Key ISO 27001:2022 Controls Mapped
 To ensure regulatory compliance and operational security, the following Annex A controls have been evaluated and integrated as mitigation strategies:
 * **A.5.14** Information transfer
 * **A.5.18** Use of secret authentication information *(Enforcing MFA)*
@@ -31,7 +31,7 @@ To ensure regulatory compliance and operational security, the following Annex A 
 * **A.8.12** Data leakage prevention *(DLP implementation)*
 * **A.8.20** Networks security *(SPF, DKIM, DMARC enforcement)*
 
-## 💡 5. Skills Demonstrated
+## 5. Skills Demonstrated
 ### Governance & Compliance
 * **IT Governance & Risk Management:** Structured risk identification and treatment.
 * **Standard Implementation:** Translating ISO/IEC 27001:2022 clauses into operational reality.
